@@ -5,8 +5,6 @@
 - [vk.com/nikitius02](https://vk.com/nikitius02)
 - [vk.com/sqzee](https://vk.com/sqzee)
 
-**Plugin version:** v10.0.0
-
 **Description:**
 AZVoice is a plugin for enhancing voice communication in SA-MP (San Andreas Multiplayer). This release includes the initial version of the plugin with essential features for initializing voice notes, creating dynamic voice streams, and managing volume settings.
 
