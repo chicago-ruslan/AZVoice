@@ -28,10 +28,10 @@ native InitializationAZVoiceNote(playerid, noteID, const noteName[]);
  * Creates a dynamic voice stream.
  * @param playerid: The ID of the player.
  * @param streamBloom: The bloom effect for the stream (default is 0xFFFFFFFF).
- * @param streamTitle: The title of the stream (default is "Ëîêàëüíûé").
+ * @param streamTitle: The title of the stream (default is "Локальный").
  * @param toggle: Whether the stream is enabled or not (default is false).
  */
-native AZVoiceCreateDynamicStream(playerid, const streamBloom[] = 0xFFFFFFFF, const streamTitle[] = "Ëîêàëüíûé", bool:toggle = false);
+native AZVoiceCreateDynamicStream(playerid, const streamBloom[] = 0xFFFFFFFF, const streamTitle[] = "Локальный", bool:toggle = false);
 
 /*
  * Toggles the voice note for a specific player.
