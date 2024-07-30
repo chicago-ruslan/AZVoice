@@ -20,7 +20,7 @@ This plugin is based on SampVoice, and you can find the original repository here
 **Native Functions:**
 - `InitializationAZVoice(port)`
 - `InitializationAZVoiceNote(playerid, noteID, const noteName[])`
-- `AZVoiceCreateDynamicStream(playerid, const streamBloom[] = 0xFFFFFFFF, const streamTitle[] = "Local", bool:toggle = false)`
+- `AZVoiceCreateDynamicStream(playerid, const streamBloom[] = 0xFFFFFFFF, const streamTitle[] = "Локальный", bool:toggle = false)`
 - `AZVoiceNote(playerid, bool:toggle, note)`
 - `AZVoiceSetVolume(playerid, Float:volume = 100.0)`
 - `forward OnAZVoiceStreamIn(playerid, bool:toggle)`
